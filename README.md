@@ -1,28 +1,31 @@
-# Comandos | Git e GitHub:
+Comandos | Git e GitHub:
 
 
-git config --global user.name = " "
-git config --global user.email = " "
+ConfiguraÃ§Ãµes:
+ğŸ¡†git config --global user.name = " "
+ğŸ¡†git config --global user.email = " "
 
-git status ?comando para visualizar o status do repositório.*
-git init ?comando para iniciar o repositório vazio.
-git add ?adiciona um arquivo específico ao commit (inclui na fila).
-git rm "--cached <file>" ?Comando para desfazer uma ação (remove arquivo adicionado na fila).
-git add . ?comando que adiciona todos os arquivos que foram editados e coloca todos.
-git commit -m ?Insere a mensagem que será exibida no commit.
-git log ?comando que mostra um log das operações trabalhadas / Histórico de commits.
+git status ğŸ¡† comando para visualizar o status do repositÃ³rio.
+git init ğŸ¡† comando para iniciar o repositÃ³rio vazio.
+git add ğŸ¡† adiciona um arquivo especÃ­fico ao commit (inclui na fila).
+git rm "--cached <file>" ğŸ¡† comando para desfazer uma aÃ§Ã£o (remove arquivo adicionado na fila).
+git add . ğŸ¡† comando que adiciona todos os arquivos que foram editados e coloca todos.
+git commit -m ğŸ¡†Insere a mensagem que serÃ¡ exibida no commit.
+git log ğŸ¡† comando que mostra um log das operaÃ§Ãµes trabalhadas / HistÃ³rico de commits.
 
-Branch ?ramificações do sistema.
-Commit ?é usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git.
+Branch  ğŸ¡†ramificaÃ§Ãµes do sistema.
+Commit ğŸ¡†Ã© usado para criar um instantÃ¢neo das alteraÃ§Ãµes preparadas em um cronograma de um histÃ³rico de projetos do Git.
 
-clear ?comando para limpar a tela.
+clear ğŸ¡†comando para limpar a tela.
 
-git branch ?lista os branches disponíveis e marca a que esta em uso no momento.
-git branch nome_da_branch ?por convenção nomes simples, com letras minúsculas e quando necessário espaço usa o "-" ou "_".
-git checkout nome_da_branch ?navega de um branch para outro.
-git checkout -b nome_da_branch ?Cria e acessa nova branch.
-git branch -d nome_da_branch ?remoção da branch.
-git merge nome_da_branch ?unifica as alterações feitas em uma branch com a outra.
-git remote -v ?verifica os repositórios remotos disponíveis.
-git clone ?clona um repositório remoto para a máquina.
+git branch ğŸ¡† lista os branches disponÃ­veis e marca a que esta em uso no momento.
+git branch nome_da_branch ğŸ¡† por convenÃ§Ã£o nomes simples, com letras minÃºsculas e quando necessÃ¡rio espaÃ§o usa o "-" ou "_".
+git checkout nome_da_branch ğŸ¡† navega de um branch para outro.
+git checkout -b nome_da_branch ğŸ¡†Cria e acessa nova branch.
+git branch -d nome_da_branch ğŸ¡†remoÃ§Ã£o da branch.
+git merge nome_da_branch ğŸ¡†unifica as alteraÃ§Ãµes feitas em uma branch com a outra.
+git remote -v ğŸ¡†verifica os repositÃ³rios remotos disponÃ­veis.
+git clone ğŸ¡†clona um repositÃ³rio remoto para a mÃ¡quina.
+
+
 
